@@ -1,0 +1,12 @@
+.otter-image-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .otter-image {
+    width: 320px;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
