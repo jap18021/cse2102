@@ -16,6 +16,10 @@ git clone https://github.com/jap18021/cse2102.git
 
 Make sure that you are in the correct directory. Navigate to Lab 0 with `cd cse2102/final/quiz` in the terminal.
 
+## 1.3 Run tests
+
+Make sure everything is running good. Execute `npm test` in the terminal to run the three tests.
+
 # 2. Start the quiz... if you dare.
 
 It's called a quiz but it seems more menacing than that... perhaps this _quiz_ will decide my fate?
